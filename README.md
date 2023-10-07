@@ -1,1 +1,1 @@
-# Java_Coding_Ninja
+Remove the Package Name - Solution
